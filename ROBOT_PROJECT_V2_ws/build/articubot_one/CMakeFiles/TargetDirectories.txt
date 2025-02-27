@@ -1,0 +1,9 @@
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/uninstall.dir
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/articubot_one_uninstall.dir
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/test.dir
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/edit_cache.dir
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/rebuild_cache.dir
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/list_install_components.dir
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/install.dir
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/install/local.dir
+/root/ROBOT_PROJECT_V2_ws/build/articubot_one/CMakeFiles/install/strip.dir

@@ -1,0 +1,115 @@
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/twist_mux.yaml:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/map_01.rviz
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/empty.yaml
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/twist_mux.yaml
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_offline.yaml
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/empty.yaml:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_online_async.yaml
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_lifelong.yaml:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_lifelong.yaml:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_lifelong.yaml
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/slam_toolbox_default.rviz:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/slam_toolbox_default.rviz:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_lifelong.yaml:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_offline.yaml:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/empty.yaml:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_localization.yaml
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/slam_toolbox_default.rviz:Zone.Identifier:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/map_01.rviz:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_online_sync.yaml:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_online_async.yaml:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_offline.yaml:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_online_sync.yaml:Zone.Identifier:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_localization.yaml:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_online_sync.yaml:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_online_sync.yaml
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/map_01.rviz:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_localization.yaml:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_localization.yaml:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/twist_mux.yaml:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_offline.yaml:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/slam_toolbox_default.rviz
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_online_async.yaml:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/mapper_params_online_async.yaml:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/map_01.rviz:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/config/empty.yaml:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model.sdf
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model - Copy.xacro:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model - Copy.sdf:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/inertial_macros.xacro
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/install/COLCON_IGNORE:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/install/.colcon_install_layout:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/install/COLCON_IGNORE
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/install/.colcon_install_layout
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/install/COLCON_IGNORE:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/install/COLCON_IGNORE:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/install/.colcon_install_layout:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model.config
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/robot.urdf.xacro
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/robot.urdf.xacro:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/lidar.xacro
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model_test.xacro
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model.xacro:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/lidar.xacro:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model.xacro
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/Robot_core.xacro:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model.sdf:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/Map.xacro
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model - Copy.sdf:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/inertial_macros.xacro:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model_test.xacro:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model - Copy.xacro:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/model.config:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/gazebo_control.xacro
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/gazebo_control.xacro:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/build/COLCON_IGNORE:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/build/.built_by:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/build/COLCON_IGNORE
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/build/COLCON_IGNORE:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/build/COLCON_IGNORE:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/build/.built_by:Zone.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/build/.built_by
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/COLCON_IGNORE:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/latest:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/COLCON_IGNORE
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/latest_build:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/COLCON_IGNORE:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/COLCON_IGNORE:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/build_2024-12-24_16-32-04/events.log
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/build_2024-12-24_16-32-04/events.log:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/build_2024-12-24_16-32-04/events.log:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/build_2024-12-24_16-32-04/logger_all.log
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/build_2024-12-24_16-32-04/logger_all.log:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/build_2024-12-24_16-32-04/logger_all.log:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/build_2024-12-24_16-32-04/events.log:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/build_2024-12-24_16-32-04/logger_all.log:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/latest_build
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/description/log/latest
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/launch/rsp.launch.py:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/launch/rsp.launch.py
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/launch/launch_sim.launch.py:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/launch/rsp.launch.py:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/launch/launch_sim.launch.py
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/launch/launch_sim.launch.py:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/launch/launch_sim.launch.py:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/launch/rsp.launch.py:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/worlds/World_01.world
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/worlds/empty.world:Zone - Copy.Identifier:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/worlds/empty.world
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/worlds/empty.world:Zone.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/worlds/empty.world:Zone - Copy.Identifier
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ament_index/resource_index/package_run_dependencies/ROBOT_PROJECT_VERSION_02
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ament_index/resource_index/parent_prefix_path/ROBOT_PROJECT_VERSION_02
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/environment/ament_prefix_path.sh
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/environment/ament_prefix_path.dsv
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/environment/path.sh
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/environment/path.dsv
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/local_setup.bash
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/local_setup.sh
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/local_setup.zsh
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/local_setup.dsv
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/package.dsv
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ament_index/resource_index/packages/ROBOT_PROJECT_VERSION_02
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/cmake/ROBOT_PROJECT_VERSION_02Config.cmake
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/cmake/ROBOT_PROJECT_VERSION_02Config-version.cmake
+/root/ROBOT_PROJECT_V2_ws/install/ROBOT_PROJECT_VERSION_02/share/ROBOT_PROJECT_VERSION_02/package.xml
